@@ -5,11 +5,11 @@
 The new ANTI THEFT DEVICE is a state of the art piece of anti theft defense.
 
 FEATURING:
-# GPS TRACKING
+### GPS TRACKING
 
-# PHONE NOTIFICATION
+### PHONE NOTIFICATION
 
-# INSTANT OPTION TO CONTACT POLICE
+### INSTANT OPTION TO CONTACT POLICE
 
 ## How to set up
 
