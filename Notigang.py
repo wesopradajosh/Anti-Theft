@@ -16,6 +16,6 @@ while True:
         print "motion"
         
         dev = pb.get_device('Oppo F1s')
-        push = dev.push_note("Alert!!", "Someone is in your house")
+        push = dev.push_note("Alert!!", "Item has gone missing")
         sleep(1)
  
