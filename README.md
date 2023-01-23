@@ -4,9 +4,6 @@
 
 The new ANTI THEFT DEVICE is a state of the art piece of anti theft defense.
 
-FEATURING:
-
-### PHONE NOTIFICATION
 
 ## How to set up
 
@@ -17,6 +14,7 @@ FEATURING:
 
 ## Required Tools
 
+- pushbullet.py module
 - Raspberry Pi OS or Thonny IDE
 - Raspberry Pi Pico
 - Motion Sensor
