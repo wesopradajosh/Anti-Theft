@@ -11,7 +11,7 @@ FEATURING:
 ## How to set up
 
 1. Wire the motion sensor and buzzer to your raspberry pi
-2. Set up your raspberry pi pico with to your computer running the Raspberry Pi OS
+2. Set up your raspberry pi pico to your computer
 3. Set up the program.
 4. When you run the program you should hear a startup buzz that indicates that the system is working
 
