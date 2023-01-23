@@ -17,7 +17,7 @@ FEATURING:
 
 ## Required Tools
 
-- Raspberry Pi OS
+- Raspberry Pi OS or Thonny IDE
 - Raspberry Pi Pico
 - Motion Sensor
 - Buzzer
